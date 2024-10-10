@@ -374,6 +374,7 @@ const bills = [
 ];
 
 // Start coding here
+
 let billMembers = [];
 
 function memberfilterNames(bills) {

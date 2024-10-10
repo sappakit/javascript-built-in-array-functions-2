@@ -6,6 +6,7 @@ let crimeRecordNames = [
 ];
 
 function searchCrimeRecord(name) {
+
   return crimeRecordNames.includes(name)
     ? `${name} has a crime record!!!`
     : `${name} has no crime record.`;

@@ -375,6 +375,7 @@ const bills = [
 
 // Start coding here
 
+
 let totalMembers = [];
 
 function memberfilterTotal(bills) {
