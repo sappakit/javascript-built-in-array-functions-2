@@ -373,6 +373,7 @@ const bills = [
   },
 ];
 
+
 // Start coding here
 
 const totalPaidByLocation = (bills) => {
@@ -390,3 +391,4 @@ const totalPaidByLocation = (bills) => {
 };
 
 console.log(totalPaidByLocation(bills));
+
