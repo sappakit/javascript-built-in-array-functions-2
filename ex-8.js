@@ -374,5 +374,3 @@ const bills = [
 ];
 
 // Start coding here
-
-const totalPaidByLocation;
